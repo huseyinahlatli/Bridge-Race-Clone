@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class CharacterControl : MonoBehaviour
 {
-
+    //Abidik gubudik
     [SerializeField] private float speed, turnSpeed, lerpValue;
     [SerializeField] private LayerMask layer; 
     private Animator animator;

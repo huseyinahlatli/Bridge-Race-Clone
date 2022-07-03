@@ -13,7 +13,7 @@ public class CharacterAI : MonoBehaviour
     [SerializeField] private GameObject collectedObject;  
     [SerializeField] private List<GameObject> cubes = new List<GameObject>();
     [SerializeField] private Transform[] ropes;
-
+    
     private Animator animator;
     private NavMeshAgent navMeshAgent;
     private bool haveTarget = false;
