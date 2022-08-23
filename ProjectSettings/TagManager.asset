@@ -8,6 +8,9 @@ TagManager:
   - GreenBoxes
   - RedBoxes
   - BlueBoxes
+  - AlignR
+  - AlignG
+  - AlignB
   layers:
   - Default
   - TransparentFX
@@ -15,7 +18,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - CubeLayer
   - 
   - 
   - 

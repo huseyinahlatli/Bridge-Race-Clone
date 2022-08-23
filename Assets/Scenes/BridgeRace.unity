@@ -135,7 +135,7 @@ GameObject:
   - component: {fileID: 14461842}
   - component: {fileID: 14461841}
   - component: {fileID: 14461840}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (11)
   m_TagString: GreenBoxes
   m_Icon: {fileID: 0}
@@ -238,7 +238,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &19271731
 Transform:
@@ -248,7 +248,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 19271730}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -6, y: 0.079, z: 104.852}
+  m_LocalPosition: {x: -6, y: -0.05, z: 104.852}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.7078574}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -417,7 +417,7 @@ GameObject:
   - component: {fileID: 35606543}
   - component: {fileID: 35606542}
   - component: {fileID: 35606541}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (13)
   m_TagString: GreenBoxes
   m_Icon: {fileID: 0}
@@ -624,6 +624,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c2303eefd3d0c004594342eb9117492f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  characterEnum: 0
   targetsParent: {fileID: 616306727}
   targets: []
   sphereRadius: 2
@@ -634,6 +635,7 @@ MonoBehaviour:
   - {fileID: 254106694}
   - {fileID: 1045559333}
   - {fileID: 2119964325}
+  materialName: 
 --- !u!1 &44878602
 GameObject:
   m_ObjectHideFlags: 0
@@ -646,7 +648,7 @@ GameObject:
   - component: {fileID: 44878605}
   - component: {fileID: 44878604}
   - component: {fileID: 44878603}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (4)
   m_TagString: GreenBoxes
   m_Icon: {fileID: 0}
@@ -743,7 +745,7 @@ GameObject:
   - component: {fileID: 55865744}
   - component: {fileID: 55865743}
   - component: {fileID: 55865742}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (21)
   m_TagString: RedBoxes
   m_Icon: {fileID: 0}
@@ -846,7 +848,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &56599621
 Transform:
@@ -856,7 +858,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 56599620}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 2, y: 0.079, z: 110.435005}
+  m_LocalPosition: {x: 2, y: -0.05, z: 110.435005}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.581333}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -951,7 +953,7 @@ GameObject:
   - component: {fileID: 99253197}
   - component: {fileID: 99253196}
   - component: {fileID: 99253195}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (40)
   m_TagString: BlueBoxes
   m_Icon: {fileID: 0}
@@ -1048,7 +1050,7 @@ GameObject:
   - component: {fileID: 102818902}
   - component: {fileID: 102818901}
   - component: {fileID: 102818900}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (28)
   m_TagString: BlueBoxes
   m_Icon: {fileID: 0}
@@ -1145,7 +1147,7 @@ GameObject:
   - component: {fileID: 108452444}
   - component: {fileID: 108452443}
   - component: {fileID: 108452442}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (5)
   m_TagString: GreenBoxes
   m_Icon: {fileID: 0}
@@ -1316,7 +1318,7 @@ GameObject:
   - component: {fileID: 119919737}
   - component: {fileID: 119919736}
   - component: {fileID: 119919735}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (32)
   m_TagString: BlueBoxes
   m_Icon: {fileID: 0}
@@ -1413,7 +1415,7 @@ GameObject:
   - component: {fileID: 125863849}
   - component: {fileID: 125863848}
   - component: {fileID: 125863847}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (39)
   m_TagString: BlueBoxes
   m_Icon: {fileID: 0}
@@ -1510,7 +1512,7 @@ GameObject:
   - component: {fileID: 128941126}
   - component: {fileID: 128941125}
   - component: {fileID: 128941124}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (7)
   m_TagString: GreenBoxes
   m_Icon: {fileID: 0}
@@ -1931,7 +1933,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &169485803
 Transform:
@@ -1941,7 +1943,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 169485802}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -14, y: 0.079, z: 106.393005}
+  m_LocalPosition: {x: -14, y: -0.05, z: 106.393005}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.6109369}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2042,7 +2044,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &189946150
 Transform:
@@ -2052,7 +2054,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 189946149}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -14, y: 0.079, z: 107}
+  m_LocalPosition: {x: -14, y: -0.05, z: 107}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.6109369}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2135,6 +2137,103 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 189946149}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &195712634
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 195712638}
+  - component: {fileID: 195712637}
+  - component: {fileID: 195712636}
+  - component: {fileID: 195712635}
+  m_Layer: 6
+  m_Name: GreenGenerate
+  m_TagString: GreenBoxes
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!65 &195712635
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 195712634}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!23 &195712636
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 195712634}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 65a1d802e4849411caaeb20562f776e5, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!33 &195712637
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 195712634}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!4 &195712638
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 195712634}
+  m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: -5.28, y: 0.123, z: 58.519997}
+  m_LocalScale: {x: 0.27317, y: 0.25699, z: 0.46153}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 15
+  m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
 --- !u!1 &197035673
 GameObject:
   m_ObjectHideFlags: 0
@@ -2147,7 +2246,7 @@ GameObject:
   - component: {fileID: 197035677}
   - component: {fileID: 197035676}
   - component: {fileID: 197035675}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (36)
   m_TagString: BlueBoxes
   m_Icon: {fileID: 0}
@@ -2244,7 +2343,7 @@ GameObject:
   - component: {fileID: 205947445}
   - component: {fileID: 205947444}
   - component: {fileID: 205947443}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (24)
   m_TagString: RedBoxes
   m_Icon: {fileID: 0}
@@ -2341,7 +2440,7 @@ GameObject:
   - component: {fileID: 251047536}
   - component: {fileID: 251047535}
   - component: {fileID: 251047534}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (22)
   m_TagString: RedBoxes
   m_Icon: {fileID: 0}
@@ -2436,7 +2535,7 @@ GameObject:
   m_Component:
   - component: {fileID: 254106694}
   m_Layer: 0
-  m_Name: Rope 1
+  m_Name: Bridge 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2501,7 +2600,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &254748778
 Transform:
@@ -2511,7 +2610,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 254748777}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -14, y: 0.079, z: 107.627}
+  m_LocalPosition: {x: -14, y: -0.05, z: 107.627}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.6109369}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2612,7 +2711,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &256106629
 Transform:
@@ -2622,7 +2721,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 256106628}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 2, y: 0.079, z: 110.12301}
+  m_LocalPosition: {x: 2, y: -0.05, z: 110.12301}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.581333}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2723,7 +2822,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &258798493
 Transform:
@@ -2733,7 +2832,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 258798492}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -6, y: 0.079, z: 107.645004}
+  m_LocalPosition: {x: -6, y: -0.05, z: 107.645004}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.7078574}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2834,7 +2933,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &304494782
 Transform:
@@ -2844,7 +2943,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 304494781}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -14, y: 0.079, z: 104.54}
+  m_LocalPosition: {x: -14, y: -0.05, z: 104.54}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.6109369}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2945,7 +3044,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &315114149
 Transform:
@@ -2955,7 +3054,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 315114148}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -14, y: 0.079, z: 108.235}
+  m_LocalPosition: {x: -14, y: -0.05, z: 108.235}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.6109369}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3056,7 +3155,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &416469468
 Transform:
@@ -3066,7 +3165,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 416469467}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -6, y: 0.079, z: 109.173004}
+  m_LocalPosition: {x: -6, y: -0.05, z: 109.173004}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.7078574}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3161,7 +3260,7 @@ GameObject:
   - component: {fileID: 420757262}
   - component: {fileID: 420757261}
   - component: {fileID: 420757260}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (33)
   m_TagString: RedBoxes
   m_Icon: {fileID: 0}
@@ -3264,7 +3363,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &426714401
 Transform:
@@ -3274,7 +3373,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 426714400}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -6, y: 0.079, z: 110.10601}
+  m_LocalPosition: {x: -6, y: -0.05, z: 110.10601}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.7078574}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3375,7 +3474,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &434676972
 Transform:
@@ -3385,7 +3484,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 434676971}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 2, y: 0.079, z: 108.877}
+  m_LocalPosition: {x: 2, y: -0.05, z: 108.877}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.581333}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3512,7 +3611,7 @@ GameObject:
   - component: {fileID: 439912977}
   - component: {fileID: 439912976}
   - component: {fileID: 439912975}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (26)
   m_TagString: BlueBoxes
   m_Icon: {fileID: 0}
@@ -3615,7 +3714,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &441170065
 Transform:
@@ -3625,7 +3724,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 441170064}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 2, y: 0.079, z: 107}
+  m_LocalPosition: {x: 2, y: -0.05, z: 107}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.581333}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3726,7 +3825,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &442344036
 Transform:
@@ -3736,7 +3835,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 442344035}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -6, y: 0.079, z: 109.49801}
+  m_LocalPosition: {x: -6, y: -0.05, z: 109.49801}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.7078574}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3831,7 +3930,7 @@ GameObject:
   - component: {fileID: 443681102}
   - component: {fileID: 443681101}
   - component: {fileID: 443681100}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (23)
   m_TagString: RedBoxes
   m_Icon: {fileID: 0}
@@ -3934,7 +4033,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &443719061
 Transform:
@@ -3944,7 +4043,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 443719060}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -6, y: 0.079, z: 106.705}
+  m_LocalPosition: {x: -6, y: -0.05, z: 106.705}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.7078574}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -4039,7 +4138,7 @@ GameObject:
   - component: {fileID: 476218405}
   - component: {fileID: 476218404}
   - component: {fileID: 476218403}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (37)
   m_TagString: RedBoxes
   m_Icon: {fileID: 0}
@@ -4210,7 +4309,7 @@ GameObject:
   - component: {fileID: 484131875}
   - component: {fileID: 484131874}
   - component: {fileID: 484131873}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (42)
   m_TagString: BlueBoxes
   m_Icon: {fileID: 0}
@@ -4313,7 +4412,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &529792783
 Transform:
@@ -4323,7 +4422,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 529792782}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -6, y: 0.079, z: 108.565}
+  m_LocalPosition: {x: -6, y: -0.05, z: 108.565}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.7078574}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -4418,7 +4517,7 @@ GameObject:
   - component: {fileID: 542009237}
   - component: {fileID: 542009236}
   - component: {fileID: 542009235}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (36)
   m_TagString: RedBoxes
   m_Icon: {fileID: 0}
@@ -4515,7 +4614,7 @@ GameObject:
   - component: {fileID: 552506122}
   - component: {fileID: 552506121}
   - component: {fileID: 552506120}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (14)
   m_TagString: GreenBoxes
   m_Icon: {fileID: 0}
@@ -4715,7 +4814,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &559576168
 Transform:
@@ -4725,7 +4824,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 559576167}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -14, y: 0.079, z: 104.852}
+  m_LocalPosition: {x: -14, y: -0.05, z: 104.852}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.6109369}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -4826,7 +4925,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &576660119
 Transform:
@@ -4836,7 +4935,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 576660118}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -6, y: 0.079, z: 104.227}
+  m_LocalPosition: {x: -6, y: -0.05, z: 104.227}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.7078574}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -4931,7 +5030,7 @@ GameObject:
   - component: {fileID: 601586062}
   - component: {fileID: 601586061}
   - component: {fileID: 601586060}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (20)
   m_TagString: BlueBoxes
   m_Icon: {fileID: 0}
@@ -5028,6 +5127,7 @@ GameObject:
   - component: {fileID: 613256614}
   - component: {fileID: 613256613}
   - component: {fileID: 613256612}
+  - component: {fileID: 613256616}
   m_Layer: 0
   m_Name: Ground
   m_TagString: Untagged
@@ -5113,6 +5213,20 @@ Transform:
   m_Father: {fileID: 1513707686}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!64 &613256616
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 613256611}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!1 &616306727
 GameObject:
   m_ObjectHideFlags: 0
@@ -5183,7 +5297,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &640188509
 Transform:
@@ -5193,7 +5307,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 640188508}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 2, y: 0.079, z: 105.146996}
+  m_LocalPosition: {x: 2, y: -0.05, z: 105.146996}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.581333}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -5294,7 +5408,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &641244424
 Transform:
@@ -5304,7 +5418,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 641244423}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 2, y: 0.079, z: 108.270004}
+  m_LocalPosition: {x: 2, y: -0.05, z: 108.270004}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.581333}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -5399,7 +5513,7 @@ GameObject:
   - component: {fileID: 642635167}
   - component: {fileID: 642635166}
   - component: {fileID: 642635165}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (35)
   m_TagString: RedBoxes
   m_Icon: {fileID: 0}
@@ -5502,7 +5616,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &648691424
 Transform:
@@ -5512,7 +5626,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 648691423}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -6, y: 0.079, z: 105.146996}
+  m_LocalPosition: {x: -6, y: -0.05, z: 105.146996}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.7078574}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -5607,7 +5721,7 @@ GameObject:
   - component: {fileID: 653393855}
   - component: {fileID: 653393854}
   - component: {fileID: 653393853}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (10)
   m_TagString: GreenBoxes
   m_Icon: {fileID: 0}
@@ -5710,7 +5824,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &654869714
 Transform:
@@ -5720,7 +5834,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 654869713}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -6, y: 0.079, z: 108.253006}
+  m_LocalPosition: {x: -6, y: -0.05, z: 108.253006}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.7078574}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -5821,7 +5935,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &670773829
 Transform:
@@ -5831,7 +5945,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 670773828}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -6, y: 0.079, z: 111.02601}
+  m_LocalPosition: {x: -6, y: -0.05, z: 111.02601}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.7078574}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -5932,7 +6046,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &673515831
 Transform:
@@ -5942,7 +6056,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 673515830}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -14, y: 0.079, z: 107.922}
+  m_LocalPosition: {x: -14, y: -0.05, z: 107.922}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.6109369}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -6037,7 +6151,7 @@ GameObject:
   - component: {fileID: 674624708}
   - component: {fileID: 674624707}
   - component: {fileID: 674624706}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (18)
   m_TagString: GreenBoxes
   m_Icon: {fileID: 0}
@@ -6247,7 +6361,7 @@ Light:
   serializedVersion: 10
   m_Type: 1
   m_Shape: 0
-  m_Color: {r: 1, g: 0.95686275, b: 0.8392157, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 1
   m_Range: 10
   m_SpotAngle: 30
@@ -6325,7 +6439,7 @@ GameObject:
   - component: {fileID: 730313887}
   - component: {fileID: 730313886}
   - component: {fileID: 730313885}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (40)
   m_TagString: RedBoxes
   m_Icon: {fileID: 0}
@@ -6422,7 +6536,7 @@ GameObject:
   - component: {fileID: 737107118}
   - component: {fileID: 737107117}
   - component: {fileID: 737107116}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (38)
   m_TagString: BlueBoxes
   m_Icon: {fileID: 0}
@@ -6507,6 +6621,103 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 737107114}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &771787874
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 771787878}
+  - component: {fileID: 771787877}
+  - component: {fileID: 771787876}
+  - component: {fileID: 771787875}
+  m_Layer: 6
+  m_Name: RedGenerate
+  m_TagString: RedBoxes
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!65 &771787875
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 771787874}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!23 &771787876
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 771787874}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 1bddb8986ce1b4a96bdc48a061f52e29, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!33 &771787877
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 771787874}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!4 &771787878
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 771787874}
+  m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: 17.2, y: 0.11, z: 74.43}
+  m_LocalScale: {x: 0.27317, y: 0.25699, z: 0.46153}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 14
+  m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
 --- !u!1 &779090795
 GameObject:
   m_ObjectHideFlags: 0
@@ -6525,7 +6736,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &779090796
 Transform:
@@ -6535,7 +6746,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 779090795}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 2, y: 0.079, z: 108.582}
+  m_LocalPosition: {x: 2, y: -0.05, z: 108.582}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.581333}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -6636,7 +6847,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &784158884
 Transform:
@@ -6646,7 +6857,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 784158883}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -14, y: 0.079, z: 108.841995}
+  m_LocalPosition: {x: -14, y: -0.05, z: 108.841995}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.6109369}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -6741,7 +6952,7 @@ GameObject:
   - component: {fileID: 789783671}
   - component: {fileID: 789783670}
   - component: {fileID: 789783669}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (43)
   m_TagString: BlueBoxes
   m_Icon: {fileID: 0}
@@ -6844,7 +7055,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &810749125
 Transform:
@@ -6854,7 +7065,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 810749124}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -14, y: 0.079, z: 107.313}
+  m_LocalPosition: {x: -14, y: -0.05, z: 107.313}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.6109369}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -6949,7 +7160,7 @@ GameObject:
   - component: {fileID: 813705363}
   - component: {fileID: 813705362}
   - component: {fileID: 813705361}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (22)
   m_TagString: BlueBoxes
   m_Icon: {fileID: 0}
@@ -7034,6 +7245,63 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 813705359}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &831292819
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 831292821}
+  - component: {fileID: 831292820}
+  m_Layer: 0
+  m_Name: Generate Cubes
+  m_TagString: Untagged
+  m_Icon: {fileID: 4162164826716764455, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &831292820
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 831292819}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51a30725730158642a4527b96372193d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  redCube: {fileID: 771787874}
+  greenCube: {fileID: 195712634}
+  blueCube: {fileID: 1091407984}
+  redCubeParent: {fileID: 616306728}
+  greenCubeParent: {fileID: 155266796}
+  blueCubeParent: {fileID: 1982718232}
+  minimumX: -22
+  maximumX: 22
+  minimumZ: 50
+  maximumZ: 90
+  layerMask:
+    serializedVersion: 2
+    m_Bits: 64
+--- !u!4 &831292821
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 831292819}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 41.57}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 13
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &851690302
 GameObject:
   m_ObjectHideFlags: 0
@@ -7052,7 +7320,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &851690303
 Transform:
@@ -7062,7 +7330,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 851690302}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -14, y: 0.079, z: 110.695}
+  m_LocalPosition: {x: -14, y: -0.05, z: 110.695}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.6109369}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -7163,7 +7431,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &887254775
 Transform:
@@ -7173,7 +7441,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 887254774}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -6, y: 0.079, z: 103.932}
+  m_LocalPosition: {x: -6, y: -0.05, z: 103.932}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.7078574}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -7274,7 +7542,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &889382979
 Transform:
@@ -7284,7 +7552,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 889382978}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 2, y: 0.079, z: 109.810005}
+  m_LocalPosition: {x: 2, y: -0.05, z: 109.810005}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.581333}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -7385,7 +7653,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &899090822
 Transform:
@@ -7395,7 +7663,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 899090821}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -14, y: 0.079, z: 109.155}
+  m_LocalPosition: {x: -14, y: -0.05, z: 109.155}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.6109369}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -7496,7 +7764,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &903161316
 Transform:
@@ -7506,7 +7774,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 903161315}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 2, y: 0.079, z: 106.705}
+  m_LocalPosition: {x: 2, y: -0.05, z: 106.705}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.581333}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -7607,7 +7875,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &904785860
 Transform:
@@ -7617,7 +7885,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 904785859}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 2, y: 0.079, z: 109.19}
+  m_LocalPosition: {x: 2, y: -0.05, z: 109.19}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.581333}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -7712,7 +7980,7 @@ GameObject:
   - component: {fileID: 910177915}
   - component: {fileID: 910177914}
   - component: {fileID: 910177913}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (26)
   m_TagString: RedBoxes
   m_Icon: {fileID: 0}
@@ -7815,7 +8083,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &926278481
 Transform:
@@ -7825,7 +8093,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 926278480}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 2, y: 0.079, z: 107.957}
+  m_LocalPosition: {x: 2, y: -0.05, z: 107.957}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.581333}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -8123,7 +8391,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &977690456
 Transform:
@@ -8133,7 +8401,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 977690455}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -6, y: 0.079, z: 107}
+  m_LocalPosition: {x: -6, y: -0.05, z: 107}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.7078574}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -8234,7 +8502,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &979337848
 Transform:
@@ -8244,7 +8512,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 979337847}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 2, y: 0.079, z: 107.313}
+  m_LocalPosition: {x: 2, y: -0.05, z: 107.313}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.581333}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -8345,7 +8613,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &987596344
 Transform:
@@ -8355,7 +8623,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 987596343}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -6, y: 0.079, z: 107.313}
+  m_LocalPosition: {x: -6, y: -0.05, z: 107.313}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.7078574}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -8456,7 +8724,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &997813680
 Transform:
@@ -8466,7 +8734,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 997813679}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -6, y: 0.079, z: 107.94}
+  m_LocalPosition: {x: -6, y: -0.05, z: 107.94}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.7078574}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -8561,7 +8829,7 @@ GameObject:
   - component: {fileID: 1002677439}
   - component: {fileID: 1002677438}
   - component: {fileID: 1002677437}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (45)
   m_TagString: BlueBoxes
   m_Icon: {fileID: 0}
@@ -8732,7 +9000,7 @@ GameObject:
   - component: {fileID: 1019088502}
   - component: {fileID: 1019088501}
   - component: {fileID: 1019088500}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (28)
   m_TagString: RedBoxes
   m_Icon: {fileID: 0}
@@ -8924,7 +9192,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1045559333}
   m_Layer: 0
-  m_Name: Rope 2
+  m_Name: Bridge 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8983,7 +9251,7 @@ GameObject:
   - component: {fileID: 1046919706}
   - component: {fileID: 1046919705}
   - component: {fileID: 1046919704}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (41)
   m_TagString: BlueBoxes
   m_Icon: {fileID: 0}
@@ -9086,7 +9354,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &1060217044
 Transform:
@@ -9096,7 +9364,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1060217043}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -14, y: 0.079, z: 104.227}
+  m_LocalPosition: {x: -14, y: -0.05, z: 104.227}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.6109364}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -9197,7 +9465,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &1088589471
 Transform:
@@ -9207,7 +9475,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1088589470}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 2, y: 0.079, z: 106.08}
+  m_LocalPosition: {x: 2, y: -0.05, z: 106.08}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.581333}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -9302,7 +9570,7 @@ GameObject:
   - component: {fileID: 1090912856}
   - component: {fileID: 1090912855}
   - component: {fileID: 1090912854}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (31)
   m_TagString: RedBoxes
   m_Icon: {fileID: 0}
@@ -9387,6 +9655,103 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1090912852}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &1091407984
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1091407988}
+  - component: {fileID: 1091407987}
+  - component: {fileID: 1091407986}
+  - component: {fileID: 1091407985}
+  m_Layer: 6
+  m_Name: BlueGenerate
+  m_TagString: BlueBoxes
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!65 &1091407985
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1091407984}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!23 &1091407986
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1091407984}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 824018a42084b43e1a0be2d28103300e, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!33 &1091407987
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1091407984}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!4 &1091407988
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1091407984}
+  m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: -0.45, y: 0.123, z: 55.04}
+  m_LocalScale: {x: 0.27317, y: 0.25699, z: 0.46153}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 16
+  m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
 --- !u!1 &1102325241
 GameObject:
   m_ObjectHideFlags: 0
@@ -9399,7 +9764,7 @@ GameObject:
   - component: {fileID: 1102325245}
   - component: {fileID: 1102325244}
   - component: {fileID: 1102325243}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (44)
   m_TagString: BlueBoxes
   m_Icon: {fileID: 0}
@@ -9502,7 +9867,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &1107786269
 Transform:
@@ -9512,7 +9877,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1107786268}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 2, y: 0.079, z: 105.785}
+  m_LocalPosition: {x: 2, y: -0.05, z: 105.785}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.581333}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -9607,7 +9972,7 @@ GameObject:
   - component: {fileID: 1107798591}
   - component: {fileID: 1107798590}
   - component: {fileID: 1107798589}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (12)
   m_TagString: GreenBoxes
   m_Icon: {fileID: 0}
@@ -9704,7 +10069,7 @@ GameObject:
   - component: {fileID: 1109813921}
   - component: {fileID: 1109813920}
   - component: {fileID: 1109813919}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (47)
   m_TagString: BlueBoxes
   m_Icon: {fileID: 0}
@@ -9801,7 +10166,7 @@ GameObject:
   - component: {fileID: 1134022987}
   - component: {fileID: 1134022986}
   - component: {fileID: 1134022985}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (9)
   m_TagString: GreenBoxes
   m_Icon: {fileID: 0}
@@ -9904,7 +10269,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &1149608687
 Transform:
@@ -9914,7 +10279,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1149608686}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -14, y: 0.079, z: 105.785}
+  m_LocalPosition: {x: -14, y: -0.05, z: 105.785}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.6109369}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -10083,7 +10448,7 @@ GameObject:
   - component: {fileID: 1176365046}
   - component: {fileID: 1176365045}
   - component: {fileID: 1176365044}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (32)
   m_TagString: RedBoxes
   m_Icon: {fileID: 0}
@@ -10180,7 +10545,7 @@ GameObject:
   - component: {fileID: 1178209232}
   - component: {fileID: 1178209231}
   - component: {fileID: 1178209230}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (39)
   m_TagString: RedBoxes
   m_Icon: {fileID: 0}
@@ -10277,7 +10642,7 @@ GameObject:
   - component: {fileID: 1190927161}
   - component: {fileID: 1190927160}
   - component: {fileID: 1190927159}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (27)
   m_TagString: BlueBoxes
   m_Icon: {fileID: 0}
@@ -10405,7 +10770,7 @@ GameObject:
   - component: {fileID: 1231049301}
   - component: {fileID: 1231049300}
   - component: {fileID: 1231049299}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (8)
   m_TagString: GreenBoxes
   m_Icon: {fileID: 0}
@@ -10502,7 +10867,7 @@ GameObject:
   - component: {fileID: 1242808953}
   - component: {fileID: 1242808952}
   - component: {fileID: 1242808951}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (16)
   m_TagString: GreenBoxes
   m_Icon: {fileID: 0}
@@ -10599,7 +10964,7 @@ GameObject:
   - component: {fileID: 1244427993}
   - component: {fileID: 1244427992}
   - component: {fileID: 1244427991}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (46)
   m_TagString: BlueBoxes
   m_Icon: {fileID: 0}
@@ -10702,7 +11067,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &1246276414
 Transform:
@@ -10712,7 +11077,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1246276413}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -14, y: 0.079, z: 106.08}
+  m_LocalPosition: {x: -14, y: -0.05, z: 106.08}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.6109369}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -10807,7 +11172,7 @@ GameObject:
   - component: {fileID: 1256494297}
   - component: {fileID: 1256494296}
   - component: {fileID: 1256494295}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (25)
   m_TagString: RedBoxes
   m_Icon: {fileID: 0}
@@ -10910,7 +11275,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &1258699117
 Transform:
@@ -10920,7 +11285,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1258699116}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -6, y: 0.079, z: 110.713005}
+  m_LocalPosition: {x: -6, y: -0.05, z: 110.713005}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.7078574}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -11021,7 +11386,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &1262828969
 Transform:
@@ -11031,7 +11396,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1262828968}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -6, y: 0.079, z: 108.86}
+  m_LocalPosition: {x: -6, y: -0.05, z: 108.86}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.7078574}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -11126,7 +11491,7 @@ GameObject:
   - component: {fileID: 1286201574}
   - component: {fileID: 1286201573}
   - component: {fileID: 1286201572}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (38)
   m_TagString: RedBoxes
   m_Icon: {fileID: 0}
@@ -11229,7 +11594,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &1298634449
 Transform:
@@ -11239,7 +11604,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1298634448}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -14, y: 0.079, z: 109.775}
+  m_LocalPosition: {x: -14, y: -0.05, z: 109.775}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.6109369}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -11334,7 +11699,7 @@ GameObject:
   - component: {fileID: 1306064105}
   - component: {fileID: 1306064104}
   - component: {fileID: 1306064103}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (37)
   m_TagString: BlueBoxes
   m_Icon: {fileID: 0}
@@ -11437,7 +11802,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &1317820507
 Transform:
@@ -11447,7 +11812,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1317820506}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 2, y: 0.079, z: 111.04301}
+  m_LocalPosition: {x: 2, y: -0.05, z: 111.04301}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.581333}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -11542,7 +11907,7 @@ GameObject:
   - component: {fileID: 1334874037}
   - component: {fileID: 1334874036}
   - component: {fileID: 1334874035}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (29)
   m_TagString: RedBoxes
   m_Icon: {fileID: 0}
@@ -11639,7 +12004,7 @@ GameObject:
   - component: {fileID: 1339688589}
   - component: {fileID: 1339688588}
   - component: {fileID: 1339688587}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (34)
   m_TagString: RedBoxes
   m_Icon: {fileID: 0}
@@ -11736,7 +12101,7 @@ GameObject:
   - component: {fileID: 1355104671}
   - component: {fileID: 1355104670}
   - component: {fileID: 1355104669}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (29)
   m_TagString: BlueBoxes
   m_Icon: {fileID: 0}
@@ -12028,7 +12393,7 @@ GameObject:
   - component: {fileID: 1404719159}
   - component: {fileID: 1404719158}
   - component: {fileID: 1404719157}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (30)
   m_TagString: RedBoxes
   m_Icon: {fileID: 0}
@@ -12131,7 +12496,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &1409978724
 Transform:
@@ -12141,7 +12506,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1409978723}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 2, y: 0.079, z: 109.51501}
+  m_LocalPosition: {x: 2, y: -0.05, z: 109.51501}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.581333}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -12242,7 +12607,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &1430035544
 Transform:
@@ -12252,7 +12617,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1430035543}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 2, y: 0.079, z: 106.393005}
+  m_LocalPosition: {x: 2, y: -0.05, z: 106.393005}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.581333}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -12353,7 +12718,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &1441480529
 Transform:
@@ -12363,7 +12728,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1441480528}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 2, y: 0.079, z: 110.73}
+  m_LocalPosition: {x: 2, y: -0.05, z: 110.73}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.581333}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -12464,7 +12829,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &1442933726
 Transform:
@@ -12474,7 +12839,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1442933725}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -14, y: 0.079, z: 109.48}
+  m_LocalPosition: {x: -14, y: -0.05, z: 109.48}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.6109369}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -12569,7 +12934,7 @@ GameObject:
   - component: {fileID: 1453920335}
   - component: {fileID: 1453920334}
   - component: {fileID: 1453920333}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (33)
   m_TagString: BlueBoxes
   m_Icon: {fileID: 0}
@@ -12666,7 +13031,7 @@ GameObject:
   - component: {fileID: 1461819436}
   - component: {fileID: 1461819435}
   - component: {fileID: 1461819434}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (19)
   m_TagString: GreenBoxes
   m_Icon: {fileID: 0}
@@ -12769,7 +13134,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &1470480151
 Transform:
@@ -12779,7 +13144,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1470480150}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -6, y: 0.079, z: 105.785}
+  m_LocalPosition: {x: -6, y: -0.05, z: 105.785}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.7078574}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -12874,7 +13239,7 @@ GameObject:
   - component: {fileID: 1482235515}
   - component: {fileID: 1482235514}
   - component: {fileID: 1482235513}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (31)
   m_TagString: BlueBoxes
   m_Icon: {fileID: 0}
@@ -12971,7 +13336,7 @@ GameObject:
   - component: {fileID: 1489946965}
   - component: {fileID: 1489946964}
   - component: {fileID: 1489946963}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (3)
   m_TagString: GreenBoxes
   m_Icon: {fileID: 0}
@@ -13074,7 +13439,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &1494243956
 Transform:
@@ -13084,7 +13449,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1494243955}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -14, y: 0.079, z: 108.547}
+  m_LocalPosition: {x: -14, y: -0.05, z: 108.547}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.6109369}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -13179,7 +13544,7 @@ GameObject:
   - component: {fileID: 1496528052}
   - component: {fileID: 1496528051}
   - component: {fileID: 1496528050}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (1)
   m_TagString: GreenBoxes
   m_Icon: {fileID: 0}
@@ -13276,7 +13641,7 @@ GameObject:
   - component: {fileID: 1513473943}
   - component: {fileID: 1513473942}
   - component: {fileID: 1513473941}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (23)
   m_TagString: BlueBoxes
   m_Icon: {fileID: 0}
@@ -13422,7 +13787,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &1550756616
 Transform:
@@ -13432,7 +13797,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1550756615}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -6, y: 0.079, z: 109.79301}
+  m_LocalPosition: {x: -6, y: -0.05, z: 109.79301}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.7078574}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -13533,7 +13898,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &1557144570
 Transform:
@@ -13543,7 +13908,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1557144569}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -14, y: 0.079, z: 105.146996}
+  m_LocalPosition: {x: -14, y: -0.05, z: 105.146996}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.6109369}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -13644,7 +14009,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &1559093372
 Transform:
@@ -13654,7 +14019,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1559093371}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 2, y: 0.079, z: 103.932}
+  m_LocalPosition: {x: 2, y: -0.05, z: 103.932}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.581333}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -13852,7 +14217,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &1610239298
 Transform:
@@ -13862,7 +14227,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1610239297}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -14, y: 0.079, z: 110.4}
+  m_LocalPosition: {x: -14, y: -0.05, z: 110.4}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.6109369}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -13957,7 +14322,7 @@ GameObject:
   - component: {fileID: 1617186556}
   - component: {fileID: 1617186555}
   - component: {fileID: 1617186554}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (24)
   m_TagString: BlueBoxes
   m_Icon: {fileID: 0}
@@ -14054,7 +14419,7 @@ GameObject:
   - component: {fileID: 1619951949}
   - component: {fileID: 1619951948}
   - component: {fileID: 1619951947}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (27)
   m_TagString: RedBoxes
   m_Icon: {fileID: 0}
@@ -14151,7 +14516,7 @@ GameObject:
   - component: {fileID: 1658217904}
   - component: {fileID: 1658217903}
   - component: {fileID: 1658217902}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (17)
   m_TagString: GreenBoxes
   m_Icon: {fileID: 0}
@@ -14253,7 +14618,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!64 &1668052596
 MeshCollider:
@@ -14346,7 +14711,7 @@ GameObject:
   - component: {fileID: 1696281974}
   - component: {fileID: 1696281973}
   - component: {fileID: 1696281972}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (30)
   m_TagString: BlueBoxes
   m_Icon: {fileID: 0}
@@ -14449,7 +14814,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &1699885702
 Transform:
@@ -14459,7 +14824,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1699885701}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 2, y: 0.079, z: 104.852}
+  m_LocalPosition: {x: 2, y: -0.05, z: 104.852}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.581333}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -14560,7 +14925,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &1707580987
 Transform:
@@ -14570,7 +14935,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1707580986}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -14, y: 0.079, z: 111.008}
+  m_LocalPosition: {x: -14, y: -0.05, z: 111.008}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.6109369}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -14703,7 +15068,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &1749070557
 Transform:
@@ -14713,7 +15078,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1749070556}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -14, y: 0.079, z: 106.705}
+  m_LocalPosition: {x: -14, y: -0.05, z: 106.705}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.6109369}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -14814,7 +15179,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &1755958580
 Transform:
@@ -14824,7 +15189,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1755958579}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 2, y: 0.079, z: 105.46}
+  m_LocalPosition: {x: 2, y: -0.05, z: 105.46}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.581333}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -15022,7 +15387,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &1850004655
 Transform:
@@ -15032,7 +15397,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1850004654}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 2, y: 0.079, z: 104.54}
+  m_LocalPosition: {x: 2, y: -0.05, z: 104.54}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.581333}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -15127,7 +15492,7 @@ GameObject:
   - component: {fileID: 1862866817}
   - component: {fileID: 1862866816}
   - component: {fileID: 1862866815}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (2)
   m_TagString: GreenBoxes
   m_Icon: {fileID: 0}
@@ -15230,7 +15595,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &1869603293
 Transform:
@@ -15240,7 +15605,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1869603292}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -14, y: 0.079, z: 110.088005}
+  m_LocalPosition: {x: -14, y: -0.05, z: 110.088005}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.6109369}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -15335,7 +15700,7 @@ GameObject:
   - component: {fileID: 1887203388}
   - component: {fileID: 1887203387}
   - component: {fileID: 1887203386}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (20)
   m_TagString: RedBoxes
   m_Icon: {fileID: 0}
@@ -15432,7 +15797,7 @@ GameObject:
   - component: {fileID: 1896916410}
   - component: {fileID: 1896916409}
   - component: {fileID: 1896916408}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (34)
   m_TagString: BlueBoxes
   m_Icon: {fileID: 0}
@@ -15535,7 +15900,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &1912683103
 Transform:
@@ -15545,7 +15910,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1912683102}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 2, y: 0.079, z: 107.662}
+  m_LocalPosition: {x: 2, y: -0.05, z: 107.662}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.581333}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -15646,7 +16011,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &1914271120
 Transform:
@@ -15656,7 +16021,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1914271119}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -6, y: 0.079, z: 105.46}
+  m_LocalPosition: {x: -6, y: -0.05, z: 105.46}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.7078574}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -15757,7 +16122,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &1929399621
 Transform:
@@ -15767,7 +16132,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1929399620}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -14, y: 0.079, z: 103.932}
+  m_LocalPosition: {x: -14, y: -0.05, z: 103.932}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.6109369}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -15942,7 +16307,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &1972112861
 Transform:
@@ -15952,7 +16317,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1972112860}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -14, y: 0.079, z: 105.46}
+  m_LocalPosition: {x: -14, y: -0.05, z: 105.46}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.6109369}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -16249,7 +16614,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &2006893032
 Transform:
@@ -16259,7 +16624,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2006893031}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -6, y: 0.079, z: 110.41801}
+  m_LocalPosition: {x: -6, y: -0.05, z: 110.41801}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.7078574}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -16386,7 +16751,7 @@ GameObject:
   - component: {fileID: 2024620748}
   - component: {fileID: 2024620747}
   - component: {fileID: 2024620746}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (35)
   m_TagString: BlueBoxes
   m_Icon: {fileID: 0}
@@ -16483,7 +16848,7 @@ GameObject:
   - component: {fileID: 2052522712}
   - component: {fileID: 2052522711}
   - component: {fileID: 2052522710}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (25)
   m_TagString: BlueBoxes
   m_Icon: {fileID: 0}
@@ -16586,7 +16951,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &2094553975
 Transform:
@@ -16596,7 +16961,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2094553974}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 2, y: 0.079, z: 104.227}
+  m_LocalPosition: {x: 2, y: -0.05, z: 104.227}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.581333}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -16697,7 +17062,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &2105353877
 Transform:
@@ -16707,7 +17072,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2105353876}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -6, y: 0.079, z: 104.54}
+  m_LocalPosition: {x: -6, y: -0.05, z: 104.54}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.7078574}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -16808,7 +17173,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &2106833277
 Transform:
@@ -16818,7 +17183,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2106833276}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -6, y: 0.079, z: 106.08}
+  m_LocalPosition: {x: -6, y: -0.05, z: 106.08}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.7078574}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -16919,7 +17284,7 @@ GameObject:
   m_TagString: Align
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 126
   m_IsActive: 1
 --- !u!4 &2113209850
 Transform:
@@ -16929,7 +17294,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2113209849}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: -6, y: 0.079, z: 106.393005}
+  m_LocalPosition: {x: -6, y: -0.05, z: 106.393005}
   m_LocalScale: {x: 0.2731689, y: 0.077595204, z: 2.7078574}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -17022,7 +17387,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2119964325}
   m_Layer: 0
-  m_Name: Rope 3
+  m_Name: Bridge 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -17178,7 +17543,7 @@ GameObject:
   - component: {fileID: 2128874121}
   - component: {fileID: 2128874120}
   - component: {fileID: 2128874119}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (6)
   m_TagString: GreenBoxes
   m_Icon: {fileID: 0}
@@ -17349,7 +17714,7 @@ GameObject:
   - component: {fileID: 2136668436}
   - component: {fileID: 2136668435}
   - component: {fileID: 2136668434}
-  m_Layer: 10
+  m_Layer: 6
   m_Name: Toplanacak (15)
   m_TagString: GreenBoxes
   m_Icon: {fileID: 0}
@@ -17556,6 +17921,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c2303eefd3d0c004594342eb9117492f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  characterEnum: 2
   targetsParent: {fileID: 155266795}
   targets: []
   sphereRadius: 2
@@ -17566,6 +17932,7 @@ MonoBehaviour:
   - {fileID: 254106694}
   - {fileID: 1045559333}
   - {fileID: 2119964325}
+  materialName: 
 --- !u!1 &9171100795061630
 GameObject:
   m_ObjectHideFlags: 0
@@ -22373,6 +22740,9 @@ MonoBehaviour:
   layer:
     serializedVersion: 2
     m_Bits: 2147483647
+  collectPoint: {fileID: 1988691079}
+  collectedObject: {fileID: 2123193481}
+  cubes: []
 --- !u!4 &6568763123192560066
 Transform:
   m_ObjectHideFlags: 0
@@ -23565,6 +23935,7 @@ GameObject:
   - component: {fileID: 6519707878000633444}
   - component: {fileID: 6519707878000633441}
   - component: {fileID: 6519707878000633445}
+  - component: {fileID: 8145114212001553484}
   m_Layer: 0
   m_Name: BlueCharacter
   m_TagString: Untagged
@@ -23572,6 +23943,59 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!137 &8145114212001553484
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8145114212001553483}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 3
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 0}
+  m_Bones: []
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 0}
+  m_AABB:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_DirtyAABB: 0
 --- !u!4 &8145114212512726536
 Transform:
   m_ObjectHideFlags: 0
